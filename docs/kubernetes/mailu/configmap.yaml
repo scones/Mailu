@@ -162,6 +162,7 @@
     HOST_SMTP: "smtp.mailu-mailserver.svc.cluster.local"
     HOST_AUTHSMTP: "smtp.mailu-mailserver.svc.cluster.local"
     HOST_WEBMAIL: "webmail.mailu-mailserver.svc.cluster.local"
+    WEBMAIL_ADDRESS: "webmail.mailu-mailserver.svc.cluster.local"
     HOST_ADMIN: "admin.mailu-mailserver.svc.cluster.local"
     HOST_WEBDAV: "webdav.mailu-mailserver.svc.cluster.local:5232"
     HOST_ANTISPAM: "antispam.mailu-mailserver.svc.cluster.local:11332"
